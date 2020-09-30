@@ -98,7 +98,7 @@
         </div>
         <div class="store_links">
             <ul style="list-style: none;">
-                <li><a href="${pageContext.request.contextPath}/home" class="font_3 f_size_1 no_decoration black">الصفحة الرئيسية</a></li>
+                <li><a href="${pageContext.request.contextPath}/" class="font_3 f_size_1 no_decoration black">الصفحة الرئيسية</a></li>
                 <li><a href="${pageContext.request.contextPath}/product" class="font_3 f_size_1 no_decoration black">متجر</a></li>
                 <li><a href="${pageContext.request.contextPath}/contactus" class="font_3 f_size_1 no_decoration black">اتصل بنا</a></li>
             </ul>

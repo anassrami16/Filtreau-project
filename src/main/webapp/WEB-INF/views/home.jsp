@@ -34,7 +34,9 @@
         <!--enter the left menu-->
         <a class="btn_ham" onclick="show_menu()"><i class="fas fa-bars fa-lg color_5"></i></a>
 
-        <img src="${pageContext.request.contextPath}/resources/image/logo.svg" alt="logo filtreau company" class="logo">
+        <div class="center_logo"><a class="logo_11" style="text-decoration: none;"
+                                    href="${pageContext.request.contextPath}/"><img
+                src="${pageContext.request.contextPath}/resources/image/logo.svg" alt=""/></a></div>
     </div>
     <!-- body -->
     <div class="body_container">
@@ -143,7 +145,7 @@
     </div>
     <div class="store_links">
         <ul style="list-style: none;">
-            <li><a href="${pageContext.request.contextPath}/" class="font_3 f_size_1 no_decoration black">الصفحة الرئيسية</a></li>
+            <li><a href="${pageContext.request.contextPath}/home" class="font_3 f_size_1 no_decoration black">الصفحة الرئيسية</a></li>
             <li><a href="${pageContext.request.contextPath}/product" class="font_3 f_size_1 no_decoration black">متجر</a></li>
             <li><a href="${pageContext.request.contextPath}/contactus" class="font_3 f_size_1 no_decoration black">اتصل بنا</a></li>
         </ul>

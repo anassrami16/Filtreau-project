@@ -28,8 +28,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap" rel="stylesheet">
 
-
-    <title>Filteau - filtre eau osmoseur</title>
+    <meta name="description" content="Filtro - vente des produit de purification eau haut qualité , osmoseur filtre eau">
+    <meta name="keywords" content="osmoseur,filtre,eau,filtreau,purification,Chlore,traitement,osmose,inverse">
+    <title>Filteau - checkout</title>
     <!-- Facebook Pixel Code -->
     <script>
         !function(f,b,e,v,n,t,s)

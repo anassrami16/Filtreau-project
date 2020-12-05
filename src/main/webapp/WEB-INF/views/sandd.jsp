@@ -22,7 +22,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Filtro - vente des produit de purification eau haut qualité , osmoseur filtre eau">
-    <meta name="keywords" content="filtre, eau, osmoseur, filtre eau, filtreau">
+    <meta name="keywords" content="osmoseur,filtre,eau,filtreau,purification,Chlore,traitement,osmose,inverse">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
           integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/style/style.css">
@@ -34,7 +34,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 
 
-    <title>Filteau - filtre eau osmoseur</title>
+    <title>Filteau - filtre eau osmoseur - shipment information</title>
     <!-- Facebook Pixel Code -->
     <script>
         !function(f,b,e,v,n,t,s)

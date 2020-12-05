@@ -67,7 +67,11 @@ public class homeController {
         if (full_name != "" && phone != "" && city != "") {
             try {
                 userrepo.save(new user(full_name, phone, city, address, ((Product) model.getAttribute("SimpleCard")).getQuantity()));
-
+                try {
+                    emailService.sendSimpleMessage("anassrami16@gmail.com","New Order","name: "+full_name+" phone: "+phone+" city: "+city);
+                }catch (Exception e){
+                    return "valide";
+                }
                 return "valide";
             } catch (Exception e) {
                 Product p1 = (Product) model.getAttribute("SimpleCard");

@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/style/component.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap" rel="stylesheet">
-    <title>Filteau - filtre eau osmoseur</title>
+    <title>Filteau - filtre eau osmoseur - purchase</title>
     <!-- Facebook Pixel Code -->
     <script>
         !function(f,b,e,v,n,t,s)

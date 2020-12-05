@@ -10,6 +10,15 @@
 <html lang="en">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y0WKB21W30"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-Y0WKB21W30');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Filtro - vente des produit de purification eau haut qualité , osmoseur filtre eau">
@@ -23,8 +32,7 @@
 
 
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="${pageContext.request.contextPath}/resources/scripts/script.js"></script>
+
 
     <title>Filteau - filtre eau osmoseur</title>
     <!-- Facebook Pixel Code -->
@@ -66,9 +74,9 @@
             <h2 class="font_3">يرجى الاتصال بنا إذا كان لديك أي تسائل</h2>
             <p class="font_3">إذا كان لديك سؤال بشأن تسليم طلبك او حول المنتج , لا تتردد في الاتصال بنا على البريد
                 الإلكتروني التالي</p>
-            <p class="font_3">sacmecanique@gmail.com</p>
+            <p class="font_3">filtreaucontact@gmail.com</p>
             <p class="font_3">او رقم الهاتف التالي</p>
-            <p class="font_3">0637660533</p>
+            <p class="font_3">0696737056</p>
         </div>
 
     </div>
@@ -137,6 +145,8 @@
         </div>
     </div>
 </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/scripts/script.js"></script>
 </body>
 
 </html>

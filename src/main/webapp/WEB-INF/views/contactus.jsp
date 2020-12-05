@@ -77,7 +77,7 @@
                 الإلكتروني التالي</p>
             <p class="font_3">filtreaucontact@gmail.com</p>
             <p class="font_3">او رقم الهاتف التالي</p>
-            <p class="font_3">0613175394</p>
+            <p class="font_3">0677160451</p>
         </div>
 
     </div>

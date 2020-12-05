@@ -79,10 +79,10 @@
             <p class="font_3">نحن نقوم بالتوصيل في جميع انحاء المغرب
             </p>
             <p class="font_3">لمزيد من المعلومات اتصل بنا على الرقم التالي</p>
-            <p class="font_3">0637660533</p>
+            <p class="font_3">0677160451</p>
             <p class="font_3">أو راسلنا عبر البريد الإلكتروني التالي
             </p>
-            <p class="font_3">sacmecanique@gmail.com</p>
+            <p class="font_3">filtreaucontact@gmail.com</p>
         </div>
 
     </div>

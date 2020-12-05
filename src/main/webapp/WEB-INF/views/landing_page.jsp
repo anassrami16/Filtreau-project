@@ -11,13 +11,13 @@
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y0WKB21W30"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-Y0WKB21W30');
+        gtag('config', 'G-CH6V9NG9ZB');
     </script>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>

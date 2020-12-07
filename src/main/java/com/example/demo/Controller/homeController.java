@@ -53,7 +53,7 @@ public class homeController {
             return "checkout";
         } else if (quantity != 0) {
 
-            Product p1 = new Product("Filtreau - Systeme d'osmose inverse 7 étape", quantity, 1999);
+            Product p1 = new Product("Filtreau - Systeme d'osmose inverse 7 étapes", quantity, 1999);
             model.addAttribute("SimpleCard", p1);
             return "checkout";
         } else {

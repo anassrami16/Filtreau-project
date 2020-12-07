@@ -7,21 +7,21 @@ $(function () {
                 $('.main_img').attr("src", "/resources/image/landing_page_res/header/filtreau_1.png");
                 $('.viewer-box > img').attr("src", "/resources/image/landing_page_res/header/filtreau_1.png");
                 break;
-            case "cuisine one":
-                $('.main_img').attr("src", "/resources/image/med/med_cuisine_ro.jpg");
-                $('.viewer-box > img').attr("src", "/resources/image/med/med_cuisine_ro.jpg");
+            case "ell elements":
+                $('.main_img').attr("src", "/resources/image/caro_image/all_elements.webp");
+                $('.viewer-box > img').attr("src", "/resources/image/caro_image/all_elements.webp");
                 break;
-            case "cuisine two":
-                $('.main_img').attr("src", "/resources/image/med/med_cuisine_ro_2.jpg");
-                $('.viewer-box > img').attr("src", "/resources/image/med/med_cuisine_ro_2.jpg");
+            case "robinet":
+                $('.main_img').attr("src", "/resources/image/caro_image/robinet.png");
+                $('.viewer-box > img').attr("src", "/resources/image/caro_image/robinet.png");
                 break;
-            case "girl drinking water":
-                $('.main_img').attr("src", "/resources/image/med/med_little_girl.jpg");
-                $('.viewer-box > img').attr("src", "/resources/image/med/med_little_girl.jpg");
+            case "filter botle":
+                $('.main_img').attr("src", "/resources/image/caro_image/filter_botle.jpg");
+                $('.viewer-box > img').attr("src", "/resources/image/caro_image/filter_botle.jpg");
                 break;
-            case "benefit":
-                $('.main_img').attr("src", "/resources/image/webp_images/ben_img.webp");
-                $('.viewer-box > img').attr("src", "/resources/image/webp_images/ben_img.webp");
+            case "fliter in use":
+                $('.main_img').attr("src", "/resources/image/caro_image/filter_in_use.jpg");
+                $('.viewer-box > img').attr("src", "/resources/image/caro_image/filter_in_use.jpg");
                 break;
         }
 

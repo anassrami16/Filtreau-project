@@ -11,7 +11,8 @@
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -35,21 +36,21 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/style/jquery.jqZoom.css"/>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"/>
     <!-- Facebook Pixel Code -->
-    <script>
-        !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-            n.queue=[];t=b.createElement(e);t.async=!0;
-            t.src=v;s=b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t,s)}(window, document,'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '208071164163881');
-        fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-                   src="https://www.facebook.com/tr?id=208071164163881&ev=PageView&noscript=1"
-    /></noscript>
+      <script>
+          !function(f,b,e,v,n,t,s)
+          {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+              n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+              if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+              n.queue=[];t=b.createElement(e);t.async=!0;
+              t.src=v;s=b.getElementsByTagName(e)[0];
+              s.parentNode.insertBefore(t,s)}(window, document,'script',
+              'https://connect.facebook.net/en_US/fbevents.js');
+          fbq('init', '208071164163881');
+          fbq('track', 'PageView');
+      </script>
+      <noscript><img height="1" width="1" style="display:none"
+                     src="https://www.facebook.com/tr?id=208071164163881&ev=PageView&noscript=1"
+      /></noscript>
     <!-- End Facebook Pixel Code -->
 </head>
 
@@ -168,22 +169,23 @@
                     src="${pageContext.request.contextPath}/resources/image/landing_page_res/header/filtreau_1.png"
                     alt="" width="343" height="343"
                     class="main_img"></div>
-            <div class="imgs" style="width: 350px">
+            <div class="imgs">
                 <img src="${pageContext.request.contextPath}/resources/image/landing_page_res/header/filtreau_1.png"
                      alt="water filter" width="100px" height="100px" class="img_set">
-                <img src="${pageContext.request.contextPath}/resources/image/small/small_cuisine_ro.jpg"
-                     alt="cuisine one" width="100px" height="100px" class="img_set">
-                <img src="${pageContext.request.contextPath}/resources/image/small/small_cuisine_ro_2.jpg"
-                     alt="cuisine two" width="100px" height="100px" class="img_set">
-                <img src="${pageContext.request.contextPath}/resources/image/small/small_little_girl.jpg"
-                     alt="girl drinking water" width="100px" height="100px" class="img_set">
-                <img src="${pageContext.request.contextPath}/resources/image/webp_images/ben_img.webp" alt="benefit"
+                <img src="${pageContext.request.contextPath}/resources/image/caro_image/filter_in_use.jpg" alt="fliter in use"
                      width="100px" height="100px" class="img_set">
+                <img src="${pageContext.request.contextPath}/resources/image/caro_image/all_elements.webp"
+                     alt="ell elements" width="100px" height="100px" class="img_set">
+                <img src="${pageContext.request.contextPath}/resources/image/caro_image/robinet.png"
+                     alt="robinet" width="100px" height="100px" class="img_set">
+                <img src="${pageContext.request.contextPath}/resources/image/caro_image/filter_botle.jpg"
+                     alt="filter botle" width="100px" height="100px" class="img_set">
+
             </div>
         </div>
         <div class="buy_section">
-            <h1 class="font_1 " style="text-align: center;">Filtro™ -
-                système d'osmose inverse
+            <h1 class="font_3 " style="text-align: center;">Filtro™ -
+                نظام التصفية سبع مراحل
             </h1>
 
             <div class="buy_info">
@@ -191,7 +193,7 @@
                 <div class="call_to_action">
                     <div class="price_label">
                         <p class="old_price font_2">2500DH</p>
-                        <p class="new_price font_2 color_2">2150DH</p>
+                        <p class="new_price font_2 color_2">1999DH</p>
                     </div>
                     <div class="quantity_text" style="text-align: center;">
                         <p class="font_3">الكمية</p>

@@ -11,7 +11,7 @@
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -29,7 +29,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap" rel="stylesheet">
     <title>Filteau - filtre eau osmoseur - purchase</title>
     <!-- Facebook Pixel Code -->
-    <script>
+     <script>
         !function(f,b,e,v,n,t,s)
         {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
             n.callMethod.apply(n,arguments):n.queue.push(arguments)};

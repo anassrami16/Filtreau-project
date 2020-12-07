@@ -426,12 +426,20 @@ body {
     display: flex;
     justify-content: center;
 }
-
+.cool_green{
+    color: rgb(65, 151, 65);
+    font-size: x-large;
+}
+.cool_blue{
+    text-decoration-line: underline;
+    color: #088ec8;
+    font-size: large;
+}
 .imgs {
-    margin-top: 10px;
     display: flex;
-
-    overflow-x: scroll;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
 }
 
 .slick_container {

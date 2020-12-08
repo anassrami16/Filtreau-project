@@ -11,20 +11,20 @@
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
-     <script>
-         window.dataLayer = window.dataLayer || [];
-         function gtag(){dataLayer.push(arguments);}
-         gtag('js', new Date());
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
+      <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-         gtag('config', 'G-CH6V9NG9ZB');
-     </script>
+          gtag('config', 'G-CH6V9NG9ZB');
+      </script>
 
-     <meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <meta name="description" content="Filtro - vente des produit de purification eau haut qualité , osmoseur filtre eau">
-     <meta name="keywords" content="osmoseur,filtre,eau,filtreau,purification,Chlore,traitement,osmose,inverse">
-     <!-- stylesheets -->
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Filtro - vente des produit de purification eau haut qualité , osmoseur filtre eau">
+      <meta name="keywords" content="osmoseur,filtre,eau,filtreau,purification,Chlore,traitement,osmose,inverse">
+      <!-- stylesheets -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
           integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/style/style.css">
@@ -99,7 +99,7 @@
             <h1 class="font_3 " style="text-align: center;">Filtro™ -
                 نظام التصفية سبع مراحل
             </h1>
-
+            <h3 class="font_3 " style="text-align: center; margin: 4px;"> نظام التصفية سبع مراحل <span class="cool_blue_2">+</span> خزان المياه 11 لتر <span class="cool_blue_2">+</span> صنبور من الفولاذ المقاوم للصدأ</h3>
             <div class="buy_info">
                 <!-- quantity component -->
                 <div class="call_to_action">
@@ -241,8 +241,12 @@
     <!-- service infotmation-->
     <div class="benifit">
         <div class="benifit_field">
+            <div class="left_icon_holder"><i class="fas fa-truck-loading fa-2x"></i></div>
+            <h3 class="font_3">الدفع عند الاستلام</h3>
+        </div>
+        <div class="benifit_field">
             <div class="left_icon_holder"><i class="fas fa-truck fa-2x"></i></div>
-            <h2 class="font_3">التوصيل والتركيب بالمجان</h2>
+            <h3 class="font_3">التوصيل والتركيب بالمجان</h3>
         </div>
         <div class="benifit_field">
             <div class="left_icon_holder"><i class="fas fa-trophy fa-2x"></i></div>

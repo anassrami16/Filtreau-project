@@ -464,6 +464,11 @@ float:hover{
     color: #088ec8;
     font-size: large;
 }
+.cool_blue_2{
+
+    color: #088ec8;
+    font-size: large;
+}
 .imgs {
     display: flex;
     flex-wrap: wrap;

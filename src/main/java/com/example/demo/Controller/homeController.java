@@ -66,7 +66,7 @@ public class homeController {
     public String checkoutPost(Model model, @RequestParam String full_name, @RequestParam String phone, @RequestParam String city, @RequestParam String address) {
         if (full_name != "" && phone != "" && city != "") {
             try {
-                userrepo.save(new user(full_name, phone, city,"N'" +address+"'", ((Product) model.getAttribute("SimpleCard")).getQuantity()));
+                userrepo.save(new user("N'" +full_name+"'", phone, "N'" +city+"'","N'" +address+"'", ((Product) model.getAttribute("SimpleCard")).getQuantity()));
                 try {
                     emailService.sendSimpleMessage("anassrami16@gmail.com","New Order","name: "+full_name+" phone: "+phone+" city: "+city + " adresse: " +address);
                 }catch (Exception e){

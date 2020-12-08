@@ -12,7 +12,7 @@
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
-     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-CH6V9NG9ZB"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -20,6 +20,7 @@
 
         gtag('config', 'G-CH6V9NG9ZB');
     </script>
+
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="description" content="Filtro - vente des produit de purification eau haut qualité , osmoseur filtre eau">
@@ -300,6 +301,9 @@
         </li>
     </div>
 </div>
+<a href="https://wa.link/kc7ga2" class="float" target="_blank">
+    <i class="fab fa-whatsapp"></i>
+</a>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>

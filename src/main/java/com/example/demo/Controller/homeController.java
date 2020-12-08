@@ -68,7 +68,7 @@ public class homeController {
             try {
                 userrepo.save(new user(full_name, phone, city, address, ((Product) model.getAttribute("SimpleCard")).getQuantity()));
                 try {
-                    emailService.sendSimpleMessage("anassrami16@gmail.com","New Order","name: "+full_name+" phone: "+phone+" city: "+city);
+                    emailService.sendSimpleMessage("anassrami16@gmail.com","New Order","name: "+full_name+" phone: "+phone+" city: "+city + " adresse: " +address);
                 }catch (Exception e){
                     return "valide";
                 }

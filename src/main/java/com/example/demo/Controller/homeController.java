@@ -26,12 +26,25 @@ public class homeController {
 
     @GetMapping(path = "/")
     public String home() {
-        return "landing_page";
+        //return "landing_page";
+        return  "commingsoon";
+    }
+    @PostMapping(path = "/sendmail")
+    public String sendmail(@RequestParam String email) {
+        //return "landing_page";
+        try{
+            emailService.sendSimpleMessage("anassrami16@gmail.com","new user",email);
+        }
+        catch (Exception e){
+            return  "redirect:/";
+        }
+        return  "redirect:/";
     }
 
     @GetMapping(path = "/product")
     public String product() {
-        return "product";
+        //return "product";
+        return  "commingsoon";
     }
 
     @GetMapping(path = "/sandd")
